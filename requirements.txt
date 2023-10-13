@@ -1,0 +1,9 @@
+pandas==1.4.2
+xlrd==2.0.1
+numpy==1.21.5
+imbox==0.9.8
+python-dateutil==2.8.2
+pandas_gbq==0.19.1
+pydrive2==1.15.1
+google-auth==2.16.0
+pyu2f==0.1.5
